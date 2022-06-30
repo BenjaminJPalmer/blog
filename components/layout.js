@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
     return (
         <div className={styles.container}>
             <Head>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/images/profile.jpg" />
                 <meta
                     name="description"
                     content="The blog of Benjamin Palmer - QA Tester"
@@ -46,8 +46,8 @@ export default function Layout({ children, home }) {
                                     priority
                                     src="/images/profile.jpg"
                                     className={utilStyles.borderCircle}
-                                    height={108}
-                                    width={108}
+                                    height={144}
+                                    width={144}
                                     alt={name}
                                 />
                             </a>
