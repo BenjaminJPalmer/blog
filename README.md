@@ -1,3 +1,5 @@
-# Blog
+# Benjamin Palmer
 
-This is my personal bloggin
+## Hi!
+
+My name is Ben and I'm a QA Tester based in Leeds, UK.

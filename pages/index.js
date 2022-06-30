@@ -22,10 +22,9 @@ export default function Home({ allPostsData }) {
             </Head>
             <section className={utilStyles.headingMd}>
                 <p>
-                    Hello. I'm <strong>Ben</strong>, a QA Tester and Software Developer based in
+                    Hello. I'm <strong>Ben</strong>, a QA Tester based in
                     Leeds, UK.
                 </p>
-                <p>This is a test on a new branch.</p>
             </section>
             <section className="`${utilStyles.headingMd} ${utilStyles.padding1px}">
                 <h2 className={utilStyles.headingLg}>Blog</h2>
